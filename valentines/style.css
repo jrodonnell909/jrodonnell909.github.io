@@ -1,0 +1,28 @@
+#heart-container {
+    text-align: center;
+}
+
+#heart {
+    color: #FFFFFF;
+}
+
+#page-title {
+    text-align: center;
+    font-family: pacifico;
+    font-size: 128px;
+    color: #D32F2F;
+    outline-color: #FFFFFF;
+}
+
+.card-title {
+    color: #F44336;
+}
+
+.card-content {
+    color: #F44336;
+    font-size: 16px
+}
+
+body {
+    background-color: #FFCDD2
+}

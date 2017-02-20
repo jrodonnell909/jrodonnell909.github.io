@@ -1,0 +1,52 @@
+/*
+#607d8b
+#ffffff
+#263238
+#455a64
+*/
+
+body {
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+  position: relative;
+  padding-bottom: 70px;
+}
+
+footer {
+  background-color: #607d8b;
+  color: #ffffff;
+  padding: 10px 0px 160px 0px
+}
+
+.navbar-inverse {
+  background-color: #607d8b;
+  border-color: #607d8b;
+}
+
+.navbar-inverse .navbar-text {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #263238;
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #455a64;
+}
+
+.btn-youtube{color:#fff;background-color:#e52d27;border-color:rgba(0,0,0,0.2)}.btn-youtube:focus,.btn-youtube.focus{color:#fff;background-color:#b31217;border-color:rgba(0,0,0,0.2)}
+.btn-youtube:hover{color:#fff;background-color:#b31217;border-color:rgba(0,0,0,0.2)}
+.btn-youtube:active,.btn-youtube.active,.open>.dropdown-toggle.btn-youtube{color:#fff;background-color:#b31217;border-color:rgba(0,0,0,0.2)}.btn-youtube:active:hover,.btn-youtube.active:hover,.open>.dropdown-toggle.btn-youtube:hover,.btn-youtube:active:focus,.btn-youtube.active:focus,.open>.dropdown-toggle.btn-youtube:focus,.btn-youtube:active.focus,.btn-youtube.active.focus,.open>.dropdown-toggle.btn-youtube.focus{color:#fff;background-color:#960005;border-color:rgba(0,0,0,0.2)}
+.btn-youtube:active,.btn-youtube.active,.open>.dropdown-toggle.btn-youtube{background-image:none}
+.btn-youtube.disabled,.btn-youtube[disabled],fieldset[disabled] .btn-youtube,.btn-youtube.disabled:hover,.btn-youtube[disabled]:hover,fieldset[disabled] .btn-youtube:hover,.btn-youtube.disabled:focus,.btn-youtube[disabled]:focus,fieldset[disabled] .btn-youtube:focus,.btn-youtube.disabled.focus,.btn-youtube[disabled].focus,fieldset[disabled] .btn-youtube.focus,.btn-youtube.disabled:active,.btn-youtube[disabled]:active,fieldset[disabled] .btn-youtube:active,.btn-youtube.disabled.active,.btn-youtube[disabled].active,fieldset[disabled] .btn-youtube.active{background-color:#e52d27;border-color:rgba(0,0,0,0.2)}
+.btn-youtube .badge{color:#e52d27;background-color:#fff}
